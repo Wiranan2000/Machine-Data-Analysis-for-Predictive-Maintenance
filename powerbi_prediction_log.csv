@@ -1,0 +1,4 @@
+Timestamp,Machine_ID,Torque [Nm],Tool_Wear [min],Prediction,Confidence
+2025-06-19 08:50:01,M-001,45.1,10,Stable,5.2
+2025-06-19 08:51:15,M-002,65.7,215,Failure Likely,96.0
+2025-06-19 08:52:30,M-001,70.2,225,Failure Likely,98.5
