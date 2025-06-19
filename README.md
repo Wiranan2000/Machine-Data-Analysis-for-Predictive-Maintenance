@@ -75,7 +75,7 @@ Here is a brief description of the key files in this repository:
 
 *(It is highly recommended to add a screenshot of your Power BI dashboard here to make the README more impressive.)*
 
-![Dashboard Screenshot](path/to/your/dashboard_image.png)
+![Dashboard Screenshot](dashboard-preview.jpg)
 
 ---
 
